@@ -21,7 +21,7 @@ theme = "devresume"
     [params.profile]
         enable = true
         name = "Mesfin Kebede"
-        tagline = "Computer Science/ Cyber Security"
+        tagline = "Cyber Security Major in Computer Science"
         avatar = "avatar.png"
 
 
@@ -287,13 +287,14 @@ theme = "devresume"
         [[params.information.list]]
         title = "Website"
         [[params.information.list.items]]
+        details = "2021 · https://www.calstatela.edu/ecst/ece/stem-core-internship"
+        [[params.information.list.items]]
         details = "2021 · https://bewinnors.github.io"
-        # [[params.information.list.items]]
-        # details = "2016 · Sed Fringilla"
 
-        [[params.information.list]]
-        title = "Interests"
-        details = "Walking, Photography, Travelling"
+
+        # [[params.information.list]]
+        # title = "Interests"
+        # details = "Walking, Photography, Travelling"
 
 
 
