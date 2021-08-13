@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mesfin Resume</title>
-    <link>https://mesfin-github.github.io/mesfin/</link>
+    <link>https://mesfin-k.github.io/mesfin/</link>
     <description>Recent content on Mesfin Resume</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://mesfin-github.github.io/mesfin/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://mesfin-k.github.io/mesfin/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
