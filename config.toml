@@ -40,7 +40,7 @@ theme = "devresume"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "https://mesfin.github.io"
+        text = "https://mesfin-github.github.io/mesfin/"
 
 
 
