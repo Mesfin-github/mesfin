@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://mesfin.github.io/"
+baseURL = "https://mesfin-github.github.io/mesfin/"
 languageCode = "en"
 title = "Mesfin Resume"
 theme = "devresume"
