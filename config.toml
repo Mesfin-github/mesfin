@@ -1,0 +1,325 @@
+# Page settings
+
+baseURL = "https://mesfin.github.io/"
+languageCode = "en"
+title = "Mesfin Resume"
+theme = "devresume"
+# googleAnalytics = "UA-XXXXXXX-Y"
+
+
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+
+
+    primaryColor = "#54B689"
+    textPrimaryColor = "#292929"
+
+
+
+
+    [params.profile]
+        enable = true
+        name = "Mesfin Kebede"
+        tagline = "Computer Science/ Cyber Security"
+        avatar = "avatar.png"
+
+
+    [params.contact]
+        enable = true
+        location = "California"
+
+        [[params.contact.list]]
+        icon = "fas fa-phone-square"
+        url = "tel:#"
+        text = "(510) 925 8476"
+        [[params.contact.list]]
+        icon = "fas fa-envelope-square"
+        url = "mailto:#"
+        text = "mesfin.kebede@icloud.com"
+        [[params.contact.list]]
+        icon = "fas fa-globe"
+        url = "#"
+        text = "https://mesfin.github.io"
+
+
+
+
+
+
+
+    [params.skills]
+        enable = true
+
+        [[params.skills.list]]
+        title = "Technical"
+        [[params.skills.list.items]]
+        details = "HTML5/CSS"
+        [[params.skills.list.items]]
+        details = "Python/Ruby/PHP"
+        [[params.skills.list.items]]
+        details = "AWS:EC2/IAM/Cloudtrail"
+        [[params.skills.list.items]]
+        details = "RDBMS/SQL/MySQL"
+        [[params.skills.list.items]]
+        details = "Object-oriented Programming with C++"
+        [[params.skills.list.items]]
+        details = "Network Scanner Tool:Nmap/Metasploit/tcpdump"
+        [[params.skills.list.items]]
+        details = "Computer Forensic Tool:autopsy/Wireshark"
+        [[params.skills.list.items]]
+        details = "Design and implement database structures"
+        [[params.skills.list.items]]
+        details = "Knowledge of buisness domain in the commercial Bank Sector"
+
+        [[params.skills.list]]
+        title = "Professional"
+        # [[params.skills.list.items]]
+        # details = "Effective communication"
+        [[params.skills.list.items]]
+        details = "Team player"
+        [[params.skills.list.items]]
+        details = "Strong problem solver"
+        [[params.skills.list.items]]
+        details = "Good time management"
+
+
+
+
+
+
+
+
+    [params.education]
+        enable = true
+
+        [[params.education.list]]
+        degree = "AS Application Security"
+        university = "Merritt College"
+        dates = "2019 - 2021"
+        [[params.education.list]]
+        degree = "AS Infrastructure Security"
+        university = "Merritt College"
+        dates = "2019 - 2021"
+        [[params.education.list]]
+        degree = "AS Computer Science"
+        university = "Merritt College"
+        dates = "2019 - 2022"
+        [[params.education.list]]
+        degree = "BSc Accounting"
+        university = "Addis Ababa University School of Commerce"
+        dates = "2007 - 2011"
+
+
+
+
+
+
+
+
+    [params.awards]
+        enable = false
+
+        [[params.awards.list]]
+        name = "Award Lorem Ipsum"
+        body = "Microsoft lorem ipsum"
+        date = "2019"
+        [[params.awards.list]]
+        name = "Award Donec Sodales"
+        body = "Oracle Aenean"
+        date = "2017"
+
+
+
+
+
+
+
+
+    [params.languages]
+        enable = true
+
+        [[params.languages.list]]
+        name = "English"
+        level = "Professional"
+        [[params.languages.list]]
+        name = "Amharic"
+        level = "Native"
+
+
+
+
+
+
+
+
+    [params.interests]
+        enable = true
+
+        [[params.interests.list]]
+        name = "Walking"
+        # [[params.interests.list]]
+        # name = "Snowboarding"
+        [[params.interests.list]]
+        name = "Photography"
+        [[params.interests.list]]
+        name = "Travelling"
+
+
+
+
+
+
+
+
+    [params.summary]
+        enable = true
+        text = "I developed through understanding of objected oriented programing language and I am completing Associate degrees in Application Security, Infrastructure Security and Computer Science, specializing in Secure Software Development and DevSecOps. I developed understanding of advanced  system administration and networking security architecture principles and industry best practices. In addition I understand major security solutions to protect your web applications from attacks and developed strategy to protect company from OWASP (Open Web Application Security Project) injection attack that included research of security incident and recommendations to prevent in the future attack. I used Apache, PHP, MySQL and HTML to build a deliberately vulnerable web application. I learnt major concepts of vulnerability management, exploits, types of malware, and incident response."
+
+
+
+
+
+
+
+
+    [params.experience]
+        enable = true
+
+        [[params.experience.list]]
+        title = "STEM Core internship"
+        dates = "May 2021 - Aug 2021"
+        company = "Cal State University LA"
+        details = "Developed the BE WINNORS Website https://bewinnors.github.io, and this website link is used in Cal State University LA website (https://www.calstatela.edu/ecst/ece/engaged-learning) to promote the BE WINNORS  project. Involved in BE WINNORS Robotic Arm Project designing a shower assist robotic device for individuals with mobility impairments."
+        [[params.experience.list.items]]
+        details = "Website Development."
+        [[params.experience.list.items]]
+        details = "Construct website design by creating a hierarchy chart."
+        [[params.experience.list.items]]
+        details = "Creating a Gantt chart for time management."
+
+        [[params.experience.list]]
+        title = "IT Technician"
+        dates = "Jan 2018 - Apr 2018"
+        company = "Pegatron company/ Apple"
+        details = "Setup and configured ERS for barcode scanners, printers, page adjustment, file allocation, recover lost files from computers, prepare databases, servers, imaging computers."
+        [[params.experience.list.items]]
+        details = "Repair computer hardware and servers as required."
+        [[params.experience.list.items]]
+        details = "Setup and configure network."
+
+        [[params.experience.list]]
+        title = "Customer Account Specialist"
+        dates = "Dec 2012 - Mar 2017"
+        company = "Comercial Bank of Ethiopia"
+        details = "Analyzed foreign remittance reports and conducted monthly interbank account reconciliations to meet foreign currency reserve and deposit goals. Reconciled mismatched Electric Journal (EJ) reports. Proposed and implemented a Point of Sale (POS) machine due to repeated ATM to Bank Management failures throughout the organization over 1,000 branches. Increased bond sales by 50% for two years following the program implementation, implemented a pilot POS system which reduced workload by 40% at four bank testing locations"
+        [[params.experience.list.items]]
+        details = "Involved in customization and implementing ERP solutions projects. "
+
+
+        # [[params.experience.list]]
+        # title = "Senior Developer"
+        # dates = "2013 - 2014"
+        # company = "Uber"
+        # details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+
+        # [[params.experience.list]]
+        # title = "Backend Developer"
+        # dates = "2014 - 2016"
+        # company = "Amazon"
+        # details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+
+        # [[params.experience.list]]
+        # title = "Frontend Developer"
+        # dates = "2013 - 2014"
+        # company = "Startup"
+        # details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus."
+
+
+
+
+
+
+
+
+
+
+
+    [params.projects]
+        enable = true
+
+        [[params.projects.list]]
+        title = "Broken Authentication and Session Management"
+        meta = "Open Source"
+        tagline = "Broken Authentication is a vulnerability and is ranked second on the OWASP (Open Web Application Security Project) top ten. How hackers attempt to gain unauthorized access to a account by using either compromised passwords and emails or usernames along with the assistance of password cracking programs."
+
+        [[params.projects.list]]
+        title = "Software intrusion incident forensic analysis"
+        meta = "Open Source"
+        tagline = "Conducted forensics for software organization that was compromised and identified the source of the attack and provided recommendations to prevent in future as a class project."
+
+        [[params.projects.list]]
+        title = "Version 3 - Phishing - Homograph attack"
+        meta = "Open Source"
+        tagline = "Understand Network Intrusion Detection System (NIDS) significant concepts of vulnerability management, exploits, types of malware, and incident response."
+
+        [[params.projects.list]]
+        title = "Hacker Guard"
+        meta = "Open Source"
+        tagline = "Establish business requirement for startup, create list of components required to build infrastructure and Build infrastructure to meet business requirement using AWS. Use threat modeling to design secure architecture; select appropriate CIS 20 Critical Controls; design, build and operate secure infrastructure on AWS."
+
+        [[params.projects.list]]
+        title = "Zoom Company Security Strategy"
+        meta = "Open Source"
+        tagline = "Developed information security strategy for COMPANY that included security assessment, identification of critical priorities, and improvement roadmap."
+
+
+
+
+
+
+
+
+
+    [params.information]
+        enable = true
+
+        [[params.information.list]]
+        title = "Website"
+        [[params.information.list.items]]
+        details = "2021 · https://bewinnors.github.io"
+        # [[params.information.list.items]]
+        # details = "2016 · Sed Fringilla"
+
+        [[params.information.list]]
+        title = "Interests"
+        details = "Walking, Photography, Travelling"
+
+
+
+
+
+
+
+
+    [params.social]
+        enable = true
+
+        [[params.social.list]]
+        icon = "fab fa-github-square"
+        url = "//github.com/Mesfin-github"
+        title = "Mesfin Kebede"
+        [[params.social.list]]
+        icon = "fab fa-linkedin"
+        url = "//linkedin.com/in/mesfin-kebede-b0aaa41a3/edit/contact-info/"
+        title = "Mesfin Kebede"
+        
+        # [[params.social.list]]
+        # icon = "fab fa-twitter-square"
+        # url = "//twitter.com/username"
+        # title = "@username"
+
+
+
+
+
