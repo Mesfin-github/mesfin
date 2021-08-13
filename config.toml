@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://mesfin-k.github.io/mesfin/"
+baseURL = "https://mesfin-k.github.io/doc/"
 languageCode = "en"
 title = "Mesfin Resume"
 theme = "devresume"
@@ -40,7 +40,7 @@ theme = "devresume"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "https://mesfin-k.github.io/mesfin/"
+        text = "https://mesfin-k.github.io/doc/"
 
 
 

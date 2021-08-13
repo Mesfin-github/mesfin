@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mesfin-k.github.io/mesfin/categories/</loc>
+    <loc>https://mesfin-k.github.io/doc/categories/</loc>
   </url><url>
-    <loc>https://mesfin-k.github.io/mesfin/</loc>
+    <loc>https://mesfin-k.github.io/doc/</loc>
   </url><url>
-    <loc>https://mesfin-k.github.io/mesfin/tags/</loc>
+    <loc>https://mesfin-k.github.io/doc/tags/</loc>
   </url>
 </urlset>
