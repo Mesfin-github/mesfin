@@ -271,7 +271,7 @@ theme = "devresume"
         [[params.projects.list]]
         title = "Zoom Company Security Strategy"
         meta = "Open Source"
-        tagline = "Developed information security strategy for COMPANY that included security assessment, identification of critical priorities, and improvement roadmap."
+        tagline = "Developed information security strategy for Zoom company that included security assessment, identification of critical priorities, and improvement roadmap."
 
 
 
