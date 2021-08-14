@@ -287,9 +287,9 @@ theme = "devresume"
         [[params.information.list]]
         title = "Website"
         [[params.information.list.items]]
-        details = "· https://www.calstatela.edu/ecst/ece/stem-core-internship" 
-        [[params.information.list.items]]
-        details = "· https://bewinnors.github.io"
+        # details = "· https://www.calstatela.edu/ecst/ece/stem-core-internship"
+        # [[params.information.list.items]]
+        # details = "· https://bewinnors.github.io"
 
 
         # [[params.information.list]]
