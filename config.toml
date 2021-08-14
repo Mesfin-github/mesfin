@@ -250,27 +250,27 @@ theme = "devresume"
 
         [[params.projects.list]]
         title = "Broken Authentication and Session Management"
-        meta = "Open Source"
+        # meta = "Open Source"
         tagline = "Broken Authentication is a vulnerability and is ranked second on the OWASP (Open Web Application Security Project) top ten. How hackers attempt to gain unauthorized access to a account by using either compromised passwords and emails or usernames along with the assistance of password cracking programs."
 
         [[params.projects.list]]
         title = "Software intrusion incident forensic analysis"
-        meta = "Open Source"
+        # meta = "Open Source"
         tagline = "Conducted forensics for software organization that was compromised and identified the source of the attack and provided recommendations to prevent in future as a class project."
 
         [[params.projects.list]]
         title = "Version 3 - Phishing - Homograph attack"
-        meta = "Open Source"
+        # meta = "Open Source"
         tagline = "Understand Network Intrusion Detection System (NIDS) significant concepts of vulnerability management, exploits, types of malware, and incident response."
 
         [[params.projects.list]]
         title = "Hacker Guard"
-        meta = "Open Source"
+        # meta = "Open Source"
         tagline = "Establish business requirement for startup, create list of components required to build infrastructure and Build infrastructure to meet business requirement using AWS. Use threat modeling to design secure architecture; select appropriate CIS 20 Critical Controls; design, build and operate secure infrastructure on AWS."
 
         [[params.projects.list]]
         title = "Zoom Company Security Strategy"
-        meta = "Open Source"
+        # meta = "Open Source"
         tagline = "Developed information security strategy for Zoom company that included security assessment, identification of critical priorities, and improvement roadmap."
 
 
@@ -287,7 +287,7 @@ theme = "devresume"
         [[params.information.list]]
         title = "Website"
         [[params.information.list.items]]
-        details = "· https://www.calstatela.edu/ecst/ece/stem-core-internship"
+        details = "· https://www.calstatela.edu/ecst/ece/stem-core-internship" 
         [[params.information.list.items]]
         details = "· https://bewinnors.github.io"
 

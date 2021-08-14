@@ -9,10 +9,10 @@
                                         <h4 class="item-title col-12 col-md-12 col-lg-12 mb-2 mb-md-0">{{ .title }}</h4>
                                     </div>
                                     <div class="item-content">
-                                        <p>{{ with .details }}{{ . | markdownify }}{{ end }}</p>
+                                        <p>{{ with .details }}{{. | markdownify }} {{ end }}</p>
                                         <ul class="list-unstyled resume-skills-list">
                                             {{ range .items }}
-                                            <li class="mb-2">{{ with .details }}{{ . | markdownify }}{{ end }}</li>
+                                            <li class="mb-2">{{ with .details }}{{ . | markdownify }}{{ end }} </li>
                                             {{ end }}
                                         </ul>
                                     </div>
