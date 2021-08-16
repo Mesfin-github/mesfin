@@ -308,7 +308,7 @@ theme = "devresume"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/Mesfin-github/"
+        url = "https://github.com/mesfin-k/"
         title = "Mesfin Kebede"
         [[params.social.list]]
         icon = "fab fa-linkedin"
