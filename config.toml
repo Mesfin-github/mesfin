@@ -106,7 +106,7 @@ theme = "devresume"
         university = "Merritt College"
         dates = "2019 - 2022"
         [[params.education.list]]
-        degree = "BSc Accounting"
+        degree = "BA Accounting"
         university = "Addis Ababa University School of Commerce"
         dates = "2007 - 2011"
 
@@ -308,11 +308,11 @@ theme = "devresume"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "//github.com/Mesfin-github"
+        url = "//github.com/Mesfin-github/"
         title = "Mesfin Kebede"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/mesfin-kebede-b0aaa41a3/edit/contact-info/"
+        url = "//linkedin.com/in/mesfin-kebede-b0aaa41a3/"
         title = "Mesfin Kebede"
         
         # [[params.social.list]]
