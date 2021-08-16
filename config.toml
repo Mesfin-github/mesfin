@@ -154,7 +154,7 @@ theme = "devresume"
 
 
     [params.interests]
-        enable = true
+        enable = false
 
         [[params.interests.list]]
         name = "Walking"
