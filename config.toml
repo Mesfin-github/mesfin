@@ -174,7 +174,7 @@ theme = "devresume"
 
     [params.summary]
         enable = true
-        text = "I developed through understanding of objected oriented programing language and I am completing Associate degrees in Application Security, Infrastructure Security and Computer Science, specializing in Secure Software Development and DevSecOps. I developed understanding of advanced  system administration and networking security architecture principles and industry best practices. In addition I understand major security solutions to protect your web applications from attacks and developed strategy to protect company from OWASP (Open Web Application Security Project) injection attack that included research of security incident and recommendations to prevent in the future attack. I used Apache, PHP, MySQL and HTML to build a deliberately vulnerable web application. I learnt major concepts of vulnerability management, exploits, types of malware, and incident response."
+        text = "I developed through an understanding of object-oriented programming language. I am completing Associate degrees in Application Security, Infrastructure Security, and Computer Science, specializing in Secure Software Development and DevSecOps. I developed an understanding of advanced system administration and networking security architecture principles and industry best practices. In addition, I understand major security solutions to protect your web applications from attacks and developed a strategy to protect a company from OWASP (Open Web Application Security Project) injection attacks that included research of security incidents and recommendations to prevent a future attack. I used Apache, PHP, MySQL, and HTML to build a deliberately vulnerable web application. I learned major concepts of vulnerability management, exploits, types of malware, and incident response."
 
 
 
@@ -190,13 +190,13 @@ theme = "devresume"
         title = "STEM Core internship"
         dates = "May 2021 - Aug 2021"
         company = "Cal State University LA"
-        details = "Developed the BE WINNORS Website https://bewinnors.github.io, and this website link is used in Cal State University LA website (https://www.calstatela.edu/ecst/ece/engaged-learning) to promote the BE WINNORS  project. Involved in BE WINNORS Robotic Arm Project designing a shower assist robotic device for individuals with mobility impairments."
+        details = "Developed the BE WINNORS Website https://bewinnors.github.io, and this website link is used in Cal State University LA website (https://www.calstatela.edu/ecst/ece/engaged-learning) to promote the BE WINNORS project. Involved in BE WINNORS Robotic Arm Project designing a shower assist robotic device for individuals with mobility impairments."
         [[params.experience.list.items]]
-        details = "Website Development."
+        details = "Developed Websites"
         [[params.experience.list.items]]
-        details = "Construct website design by creating a hierarchy chart."
+        details = "Built website design by creating a hierarchy chart."
         [[params.experience.list.items]]
-        details = "Creating a Gantt chart for time management."
+        details = "Created Gantt chart for time management."
 
         [[params.experience.list]]
         title = "IT Technician"
@@ -204,17 +204,17 @@ theme = "devresume"
         company = "Pegatron company/ Apple"
         details = "Setup and configured ERS for barcode scanners, printers, page adjustment, file allocation, recover lost files from computers, prepare databases, servers, imaging computers."
         [[params.experience.list.items]]
-        details = "Repair computer hardware and servers as required."
+        details = "Repaired computer hardware and servers as required."
         [[params.experience.list.items]]
-        details = "Setup and configure network."
+        details = "Setup and configured networks."
 
         [[params.experience.list]]
         title = "Customer Account Specialist"
         dates = "Dec 2012 - Mar 2017"
         company = "Comercial Bank of Ethiopia"
-        details = "Analyzed foreign remittance reports and conducted monthly interbank account reconciliations to meet foreign currency reserve and deposit goals. Reconciled mismatched Electric Journal (EJ) reports. Proposed and implemented a Point of Sale (POS) machine due to repeated ATM to Bank Management failures throughout the organization over 1,000 branches. Increased bond sales by 50% for two years following the program implementation, implemented a pilot POS system which reduced workload by 40% at four bank testing locations"
+        details = "Analyzed foreign remittance reports and conducted monthly interbank account reconciliations to meet foreign currency reserve and deposit goals. Reconciled mismatched Electric Journal (EJ) reports. Proposed and implemented a Point of Sale (POS) machine due to repeated ATM to Bank Management failures throughout the organization over 1,000 branches. Increased bond sales by 50% for two years following the program implementation, implemented a pilot POS system which reduced workload by 40% at four bank testing locations."
         [[params.experience.list.items]]
-        details = "Involved in customization and implementing ERP solutions projects. "
+        details = "Involved in customization and implementing ERP (Enterprise Resource Planning) solutions projects."
 
 
         # [[params.experience.list]]
@@ -251,12 +251,12 @@ theme = "devresume"
         [[params.projects.list]]
         title = "Broken Authentication and Session Management"
         # meta = "Open Source"
-        tagline = "Broken Authentication is a vulnerability and is ranked second on the OWASP (Open Web Application Security Project) top ten. How hackers attempt to gain unauthorized access to a account by using either compromised passwords and emails or usernames along with the assistance of password cracking programs."
+        tagline = "Analyzed how hackers attempt to gain unauthorized access to an account by using either compromised passwords and emails or usernames along with the assistance of password cracking programs."
 
         [[params.projects.list]]
         title = "Software intrusion incident forensic analysis"
         # meta = "Open Source"
-        tagline = "Conducted forensics for software organization that was compromised and identified the source of the attack and provided recommendations to prevent in future as a class project."
+        tagline = "Conducted computer forensics for compromised software organization, identified the source of the attack, and provided recommendations to prevent future security incidents."
 
         [[params.projects.list]]
         title = "Version 3 - Phishing - Homograph attack"
