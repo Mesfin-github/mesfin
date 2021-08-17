@@ -4,7 +4,7 @@ baseURL = "https://mesfin-k.github.io/resume/"
 languageCode = "en"
 title = "Mesfin Resume"
 theme = "devresume"
-# googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-XXXXXXX-Y"
 
 
 # [params]
@@ -39,8 +39,8 @@ theme = "devresume"
         text = "mesfin.kebede@icloud.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "#"
-        text = "https://mesfin-k.github.io/resume/"
+        url = "https://mesfin-k.github.io/resume/"
+        text = "Mesfin's resume link"
 
 
 
@@ -256,7 +256,7 @@ theme = "devresume"
         [[params.projects.list]]
         title = "Software intrusion incident forensic analysis"
         # meta = "Open Source"
-        tagline = "Conducted computer forensics for compromised software organization, identified the source of the attack, and provided recommendations to prevent future security incidents."
+        tagline = "Conducted computer forensics for compromised software organizations, identified the source of the attack and provided recommendations to prevent future security incidents."
 
         [[params.projects.list]]
         title = "Version 3 - Phishing - Homograph attack"
@@ -266,12 +266,12 @@ theme = "devresume"
         [[params.projects.list]]
         title = "Hacker Guard"
         # meta = "Open Source"
-        tagline = "Establish business requirement for startup, create list of components required to build infrastructure and Build infrastructure to meet business requirement using AWS. Use threat modeling to design secure architecture; select appropriate CIS 20 Critical Controls; design, build and operate secure infrastructure on AWS."
+        tagline = "Established business requirements for a startup and created a list of components required to build infrastructure that met business requirements using Amazon Web Server (AWS). Use threat modeling to design secure architecture; selected appropriate Center for Internet Security (CIS 20) Critical Security Controls; designed, built, and operated secure infrastructure on Amazon Web Server (AWS)."
 
         [[params.projects.list]]
         title = "Zoom Company Security Strategy"
         # meta = "Open Source"
-        tagline = "Developed information security strategy for Zoom company that included security assessment, identification of critical priorities, and improvement roadmap."
+        tagline = "Developed information security strategy for Zoom Video Communication Inc that included security assessment, identification of critical priorities, and improvement roadmap."
 
 
 
