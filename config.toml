@@ -67,8 +67,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Network Scanner Tool:Nmap/Metasploit/tcpdump"
         [[params.skills.list.items]]
         details = "Computer Forensic Tool:autopsy/Wireshark"
-        [[params.skills.list.items]]
-        details = "Design and implement database structures"
+        # [[params.skills.list.items]]
+        # details = "Design and implement database structures"
 
 
         [[params.skills.list]]
