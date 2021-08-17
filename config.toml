@@ -56,21 +56,20 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "HTML5/CSS"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
+        details = "C++/Python/Ruby/PHP"
         [[params.skills.list.items]]
         details = "AWS:EC2/IAM/Cloudtrail"
         [[params.skills.list.items]]
-        details = "RDBMS/SQL/MySQL"
+        details = "MsSQL/MySQL"
         [[params.skills.list.items]]
-        details = "Object-oriented Programming with C++"
+        details = "Object-oriented Programming"
         [[params.skills.list.items]]
         details = "Network Scanner Tool:Nmap/Metasploit/tcpdump"
         [[params.skills.list.items]]
         details = "Computer Forensic Tool:autopsy/Wireshark"
         [[params.skills.list.items]]
         details = "Design and implement database structures"
-        [[params.skills.list.items]]
-        details = "Knowledge of buisness domain in the commercial Bank Sector"
+
 
         [[params.skills.list]]
         title = "Professional"
