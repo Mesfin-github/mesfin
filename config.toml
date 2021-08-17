@@ -81,7 +81,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Strong problem solver"
         [[params.skills.list.items]]
-        details = "Good time management"
+        details = "Cost and time conscious"
 
 
 
@@ -174,7 +174,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "I developed through an understanding of object-oriented programming language. I am completing Associate degrees in Application Security, Infrastructure Security, and Computer Science, specializing in Secure Software Development and DevSecOps. I developed an understanding of advanced system administration and networking security architecture principles and industry best practices. In addition, I understand major security solutions to protect your web applications from attacks and developed a strategy to protect a company from OWASP (Open Web Application Security Project) injection attacks that included research of security incidents and recommendations to prevent a future attack. I used Apache, PHP, MySQL, and HTML to build a deliberately vulnerable web application. I learned major concepts of vulnerability management, exploits, types of malware, and incident response."
+        text = "Motivated Information Security and Computer Science professional specialized in Secure Software Development and DevSecOps with a strong business domain knowledge in commercial banking sectors looking for an opportunity to utilize my technical support, analytical, and problem-solving experience to begin a career protecting organization’s critical assets."
 
 
 
