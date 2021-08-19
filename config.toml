@@ -31,7 +31,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel:#"
+        url = "tel: (510) 925 8476"
         text = "(510) 925 8476"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
@@ -67,8 +67,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Network Scanner Tool:Nmap/Metasploit/tcpdump"
         [[params.skills.list.items]]
         details = "Computer Forensic Tool:autopsy/Wireshark"
-        # [[params.skills.list.items]]
-        # details = "Design and implement database structures"
+        [[params.skills.list.items]]
+        details = "github"
 
 
         [[params.skills.list]]
@@ -186,7 +186,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "STEM Core internship"
+        title = "Computer Science Intern"
         dates = "May 2021 - Aug 2021"
         company = "Cal State University LA"
         details = "Developed the BE WINNORS Website https://bewinnors.github.io, and this website link is used in Cal State University LA website (https://www.calstatela.edu/ecst/ece/engaged-learning) to promote the BE WINNORS project. Involved in BE WINNORS Robotic Arm Project designing a shower assist robotic device for individuals with mobility impairments."
