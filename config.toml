@@ -61,7 +61,7 @@ theme = "devresume"
         [[params.skills.list.items]]
         details = "RDBMS/SQL/MySQL"
         [[params.skills.list.items]]
-        details = "Object-oriented Programming with C++"
+        details = "Object-oriented Programming"
         [[params.skills.list.items]]
         details = "Network Scanner Tool:Nmap/Metasploit/tcpdump"
         [[params.skills.list.items]]
