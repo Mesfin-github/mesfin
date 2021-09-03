@@ -17,7 +17,6 @@ theme = "devresume"
 
 
 
-
     [params.profile]
         enable = true
         name = "Mesfin Kebede"
@@ -54,9 +53,9 @@ theme = "devresume"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "HTML5/CSS"
+        details = "HTML5/CSS/YAML"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
+        details = "C++/Python/Ruby/PHP"
         [[params.skills.list.items]]
         details = "AWS:EC2/IAM/Cloudtrail"
         [[params.skills.list.items]]
@@ -187,7 +186,7 @@ theme = "devresume"
         enable = true
 
         [[params.experience.list]]
-        title = "STEM Core internship"
+        title = "BE WINNORS Computer Science intern"
         dates = "May 2021 - Aug 2021"
         company = "Cal State University LA"
         details = "Developed the BE WINNORS Website https://bewinnors.github.io, and this website link is used in Cal State University LA website (https://www.calstatela.edu/ecst/ece/engaged-learning) to promote the BE WINNORS  project. Involved in BE WINNORS Robotic Arm Project designing a shower assist robotic device for individuals with mobility impairments."
