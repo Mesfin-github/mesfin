@@ -1,15 +1,15 @@
 # Page settings
 
-baseURL = "https://mesfin-k.github.io/resume/"
+baseURL = "https://mesfin.github.io/"
 languageCode = "en"
 title = "Mesfin Resume"
 theme = "devresume"
-googleAnalytics = "UA-XXXXXXX-Y"
+# googleAnalytics = "UA-XXXXXXX-Y"
 
 
-# [params]
-    # author = "CowboySmall"
-    # description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+[params]
+    author = "CowboySmall"
+    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 
     primaryColor = "#54B689"
@@ -20,7 +20,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Mesfin Kebede"
-        tagline = "Cyber Security Major in Computer Science"
+        tagline = "Computer Science/ Cyber Security"
         avatar = "avatar.png"
 
 
@@ -30,7 +30,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
-        url = "tel: (510) 925 8476"
+        url = "tel:#"
         text = "(510) 925 8476"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
@@ -38,8 +38,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         text = "mesfin.kebede@icloud.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
-        url = "https://mesfin-k.github.io/resume/"
-        text = "Mesfin's resume link"
+        url = "#"
+        text = "https://mesfin.github.io"
 
 
 
@@ -55,20 +55,21 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "HTML5/CSS/YAML"
         [[params.skills.list.items]]
-        details = "C++/Python/Ruby/PHP"
+        details = "Python/C++/PHP"
         [[params.skills.list.items]]
         details = "AWS:EC2/IAM/Cloudtrail"
         [[params.skills.list.items]]
-        details = "MsSQL/MySQL"
+        details = "RDBMS/SQL/MySQL"
         [[params.skills.list.items]]
-        details = "Object-oriented Programming"
+        details = "Object-oriented Programming with C++"
         [[params.skills.list.items]]
         details = "Network Scanner Tool:Nmap/Metasploit/tcpdump"
         [[params.skills.list.items]]
         details = "Computer Forensic Tool:autopsy/Wireshark"
         [[params.skills.list.items]]
-        details = "github"
-
+        details = "Design and implement database structures"
+        [[params.skills.list.items]]
+        details = "Knowledge of buisness domain in the commercial Bank Sector"
 
         [[params.skills.list]]
         title = "Professional"
@@ -79,7 +80,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Strong problem solver"
         [[params.skills.list.items]]
-        details = "Cost and time conscious"
+        details = "Good time management"
 
 
 
@@ -104,7 +105,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         university = "Merritt College"
         dates = "2019 - 2022"
         [[params.education.list]]
-        degree = "BA Accounting"
+        degree = "BSc Accounting"
         university = "Addis Ababa University School of Commerce"
         dates = "2007 - 2011"
 
@@ -152,7 +153,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.interests]
-        enable = false
+        enable = true
 
         [[params.interests.list]]
         name = "Walking"
@@ -172,7 +173,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Motivated Information Security and Computer Science professional specialized in Secure Software Development and DevSecOps with a strong business domain knowledge of the commercial banking sector looking for an opportunity to utilize my technical support, analytical, and problem-solving experience to begin a career protecting organization’s critical assets."
+        text = "I developed through understanding of objected oriented programing language and I am completing Associate degrees in Application Security, Infrastructure Security and Computer Science, specializing in Secure Software Development and DevSecOps. I developed understanding of advanced  system administration and networking security architecture principles and industry best practices. In addition I understand major security solutions to protect your web applications from attacks and developed strategy to protect company from OWASP (Open Web Application Security Project) injection attack that included research of security incident and recommendations to prevent in the future attack. I used Apache, PHP, MySQL and HTML to build a deliberately vulnerable web application. I learnt major concepts of vulnerability management, exploits, types of malware, and incident response."
 
 
 
@@ -185,20 +186,16 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-<<<<<<< HEAD
         title = "BE WINNORS Computer Science intern"
-=======
-        title = "Computer Science Intern"
->>>>>>> bbf4c6767383ca8579ef66c454be95b08da64349
         dates = "May 2021 - Aug 2021"
         company = "Cal State University LA"
-        details = "Developed the BE WINNORS Website https://bewinnors.github.io, and this website link is used in Cal State University LA website (https://www.calstatela.edu/ecst/ece/engaged-learning) to promote the BE WINNORS project. Involved in BE WINNORS Robotic Arm Project designing a shower assist robotic device for individuals with mobility impairments."
+        details = "Developed the BE WINNORS Website https://bewinnors.github.io, and this website link is used in Cal State University LA website (https://www.calstatela.edu/ecst/ece/engaged-learning) to promote the BE WINNORS  project. Involved in BE WINNORS Robotic Arm Project designing a shower assist robotic device for individuals with mobility impairments."
         [[params.experience.list.items]]
-        details = "Developed Websites"
+        details = "Website Development."
         [[params.experience.list.items]]
-        details = "Built website design by creating a hierarchy chart."
+        details = "Construct website design by creating a hierarchy chart."
         [[params.experience.list.items]]
-        details = "Created Gantt chart for time management."
+        details = "Creating a Gantt chart for time management."
 
         [[params.experience.list]]
         title = "IT Technician"
@@ -206,17 +203,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         company = "Pegatron company/ Apple"
         details = "Setup and configured ERS for barcode scanners, printers, page adjustment, file allocation, recover lost files from computers, prepare databases, servers, imaging computers."
         [[params.experience.list.items]]
-        details = "Repaired computer hardware and servers as required."
+        details = "Repair computer hardware and servers as required."
         [[params.experience.list.items]]
-        details = "Setup and configured networks."
+        details = "Setup and configure network."
 
         [[params.experience.list]]
         title = "Customer Account Specialist"
         dates = "Dec 2012 - Mar 2017"
         company = "Comercial Bank of Ethiopia"
-        details = "Analyzed foreign remittance reports and conducted monthly interbank account reconciliations to meet foreign currency reserve and deposit goals. Reconciled mismatched Electric Journal (EJ) reports. Proposed and implemented a Point of Sale (POS) machine due to repeated ATM to Bank Management failures throughout the organization over 1,000 branches. Increased bond sales by 50% for two years following the program implementation, implemented a pilot POS system which reduced workload by 40% at four bank testing locations."
+        details = "Analyzed foreign remittance reports and conducted monthly interbank account reconciliations to meet foreign currency reserve and deposit goals. Reconciled mismatched Electric Journal (EJ) reports. Proposed and implemented a Point of Sale (POS) machine due to repeated ATM to Bank Management failures throughout the organization over 1,000 branches. Increased bond sales by 50% for two years following the program implementation, implemented a pilot POS system which reduced workload by 40% at four bank testing locations"
         [[params.experience.list.items]]
-        details = "Involved in customization and implementing ERP (Enterprise Resource Planning) solutions projects."
+        details = "Involved in customization and implementing ERP solutions projects. "
 
 
         # [[params.experience.list]]
@@ -252,28 +249,28 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.projects.list]]
         title = "Broken Authentication and Session Management"
-        # meta = "Open Source"
-        tagline = "Analyzed how hackers attempt to gain unauthorized access to an account by using either compromised passwords and emails or usernames along with the assistance of password cracking programs."
+        meta = "Open Source"
+        tagline = "Broken Authentication is a vulnerability and is ranked second on the OWASP (Open Web Application Security Project) top ten. How hackers attempt to gain unauthorized access to a account by using either compromised passwords and emails or usernames along with the assistance of password cracking programs."
 
         [[params.projects.list]]
         title = "Software intrusion incident forensic analysis"
-        # meta = "Open Source"
-        tagline = "Conducted computer forensics for compromised software organizations, identified the source of the attack and provided recommendations to prevent future security incidents."
+        meta = "Open Source"
+        tagline = "Conducted forensics for software organization that was compromised and identified the source of the attack and provided recommendations to prevent in future as a class project."
 
         [[params.projects.list]]
         title = "Version 3 - Phishing - Homograph attack"
-        # meta = "Open Source"
+        meta = "Open Source"
         tagline = "Understand Network Intrusion Detection System (NIDS) significant concepts of vulnerability management, exploits, types of malware, and incident response."
 
         [[params.projects.list]]
         title = "Hacker Guard"
-        # meta = "Open Source"
-        tagline = "Established business requirements for a startup and created a list of components required to build infrastructure that met business requirements using Amazon Web Server (AWS). Use threat modeling to design secure architecture; selected appropriate Center for Internet Security (CIS 20) Critical Security Controls; designed, built, and operated secure infrastructure on Amazon Web Server (AWS)."
+        meta = "Open Source"
+        tagline = "Establish business requirement for startup, create list of components required to build infrastructure and Build infrastructure to meet business requirement using AWS. Use threat modeling to design secure architecture; select appropriate CIS 20 Critical Controls; design, build and operate secure infrastructure on AWS."
 
         [[params.projects.list]]
         title = "Zoom Company Security Strategy"
-        # meta = "Open Source"
-        tagline = "Developed information security strategy for Zoom Video Communication Inc that included security assessment, identification of critical priorities, and improvement roadmap."
+        meta = "Open Source"
+        tagline = "Developed information security strategy for COMPANY that included security assessment, identification of critical priorities, and improvement roadmap."
 
 
 
@@ -289,14 +286,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Website"
         [[params.information.list.items]]
-        # details = "· https://www.calstatela.edu/ecst/ece/stem-core-internship"
+        details = "2021 · https://bewinnors.github.io"
         # [[params.information.list.items]]
-        # details = "· https://bewinnors.github.io"
+        # details = "2016 · Sed Fringilla"
 
-
-        # [[params.information.list]]
-        # title = "Interests"
-        # details = "Walking, Photography, Travelling"
+        [[params.information.list]]
+        title = "Interests"
+        details = "Walking, Photography, Travelling"
 
 
 
@@ -310,11 +306,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.social.list]]
         icon = "fab fa-github-square"
-        url = "https://github.com/mesfin-k/"
+        url = "//github.com/Mesfin-github"
         title = "Mesfin Kebede"
         [[params.social.list]]
         icon = "fab fa-linkedin"
-        url = "//linkedin.com/in/mesfin-kebede-b0aaa41a3/"
+        url = "//linkedin.com/in/mesfin-kebede-b0aaa41a3/edit/contact-info/"
         title = "Mesfin Kebede"
         
         # [[params.social.list]]
